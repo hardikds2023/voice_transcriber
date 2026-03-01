@@ -1,0 +1,5 @@
+# Voice Memo Transcriber
+# Install with: pip install -r requirements.txt
+# Also required (system package): brew install ffmpeg
+
+openai-whisper>=20231117
